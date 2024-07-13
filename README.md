@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @tiagolandeiroto
-- 👀 Interested in web development, game development (and gaming), and just software development in general
+- 👀 Interested in software development, mostly focused on web development and java backend development.
